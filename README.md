@@ -9,6 +9,9 @@ It currently supports:
  - Cisco Catalyst 2900-3700 switches
  - Cisco 1800/1841 & 2900 Router
  - Cisco ASA 5515-5520
+ 
+ with the following actions:
+  - Wipe/Factory Reset
 
 ### Prerequisites
 
@@ -56,7 +59,7 @@ This is the list of future changes:
  - [ ] Autodetect serial port
  - [ ] Multiple instances in one setting
  - [ ] Update Switches and IOS
- - [ ] Uplod Configuration
+ - [ ] Upload Configuration
 
 
 ## Authors
