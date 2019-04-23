@@ -24,14 +24,19 @@ pip3 install pyserial
 ### Installing
 
 ```
-git clone ""
+git clone "https://github.com/phcreery/Network-Switch-Tool.git"
 ```
 
 ## Running
 
 ```
-sudo switchwiper2.py
+sudo python switchwiper2.py
 ```
+or
+```
+sudo python3 switchwiper2.py
+```
+
 
 ### Usage
 
